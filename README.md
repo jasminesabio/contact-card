@@ -1,3 +1,8 @@
+# Contact Card
+
+Scrimba's React Course - Solo Project 1. Built a static webpage with React.
+![contact card](contact-card.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
