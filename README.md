@@ -1,7 +1,7 @@
 # Contact Card
 
 Scrimba's React Course - Solo Project 1. Built a static webpage with React.\
-<img src="./contact-card.png" height="600" />
+<img src="./contact-card.png" height="600" align="center" />
 
 # Getting Started with Create React App
 
