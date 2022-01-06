@@ -1,7 +1,7 @@
 # Contact Card
 
-Scrimba's React Course - Solo Project 1. Built a static webpage with React.
-![contact card](contact-card.png)
+Scrimba's React Course - Solo Project 1. Built a static webpage with React.\
+<img src="./contact-card.png" height="300" />
 
 # Getting Started with Create React App
 
